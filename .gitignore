@@ -31,6 +31,8 @@ luac.out
 *.so.*
 *.dylib
 
+*.md
+
 # Executables
 *.exe
 *.out
